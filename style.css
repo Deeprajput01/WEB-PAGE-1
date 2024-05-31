@@ -1,0 +1,270 @@
+*{
+    margin: 0%;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border: border-box;
+}
+body{
+   background-image:url("body11.jpg");
+   background-size: cover;
+   height: 600px;
+   width: 100%;
+}
+
+.navber{
+   display:block ;
+   height: 60px;
+   background-color: #0f1111;
+   display: flex;
+   align-items: center;
+    color:white;
+    justify-content: space-evenly;
+    
+}
+
+
+.logo{
+   height: 50px;
+   width: 100px;
+}
+.pic img{
+    height: 50px;
+    width: 100px;
+    margin-top: 5px;
+
+   }
+   .pic img{
+      background: transparent;
+      margin-right: 2px;
+}
+
+.a{
+   color:#cccccc;
+   font-size: 0.80rem;
+}
+
+.ab{
+   font-size:1rem ;
+
+}
+.icon{
+   display:flex;
+   align-items: center;
+   margin-top:5px ;
+}
+.nevadd{
+   margin:7px 0 0 15px;
+}
+
+ 
+ /* box 3 */
+ 
+ 
+ .selet{
+    display:flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    background-color: rgb(196, 34, 144);
+    width: 700px;
+    height: 40px;
+    border-radius: 4px;
+    
+   }
+   
+   .selet:hover{
+      border: 2px solid rgb(255,174,0);
+
+   }
+   
+   .search{
+      background-color: #f3f3f3;
+    width:50px ;
+    text-align: center;
+    color: #0f1111;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+
+   }
+ .s-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+   }
+   
+ .s-icon{
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    background-color: rgb(255,174,0);
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    
+    
+   }
+   
+   /* box number is 4 */
+   
+   .nev-p1{
+    font-size: 0.7rem;
+ }
+ .nev-p2{
+    font-size: 0.85rem;
+    font-weight: 700;
+   }
+   /* box number5 */
+   .cart i{
+      font-size: 30px;
+      
+   }
+   
+   .cart{
+    font-size: 0.83;
+    font-weight: 700;
+   }
+   
+   /* panel start */
+   
+   .p1p0 {
+    height: 40px;
+    background-color:#252c2c;
+    display: flex;
+    align-items: center;
+    
+    
+    
+   } 
+
+   .all{
+      color:white;
+    margin-left: 10px;
+
+   }
+
+  .ops{
+    display:flex;
+    margin-left: 14px;
+
+   }
+
+  .ops-1{
+    margin-right: 40px;
+    
+    text-align: center;
+    text-decoration:none ;
+    color:white;
+   }
+   
+ .pp{
+    
+    border:1px solid white;
+    margin-left:45rem;
+    color:white;
+    padding: 2px;
+   }  
+   
+   
+   .pp:hover{
+      background-color: rgb(185, 150, 76,0.75);
+      border: rgb(195, 131, 12);
+    color: white;
+   }
+
+  /* ......................hero................... */
+  
+  img{
+     width:100%;
+    height: 450px;
+    margin-bottom:0;
+    
+   }
+
+   .shop-section{
+      display: flex;
+    justify-content: space-evenly;
+    margin-top:0;
+    background-image: url("body11.jpg");
+    background-size: cover;
+  }
+
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 350px;
+    margin-top: 15px;
+    background-color: white;
+    
+}
+  
+.box h2{
+   margin : 10px 10px 4px 10px;
+}
+
+.img-1 img{
+    background-size: cover;
+    height: 290px;
+    width: 320px;
+    margin : 10px 15px 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.more{
+    margin : 15px 10px 5px 10px;
+    font-weight: 700;
+}
+
+.malti1{
+   display:flex;
+}
+
+.malti{
+   height: 130px;
+   width: 150px;
+   margin : 14px 10px 5px 10px;
+}
+
+.malti2{
+   height: 130px;
+   width: 150px;
+   margin : 14px 10px 5px 15px;
+}
+
+.secttion2{
+   display: flex;
+   justify-content: space-evenly;
+   
+   margin-top:0;
+   
+}
+
+/* inspired  */
+.b{
+   height: 100px;
+   background-color: #f3f3f3;
+}
+
+.ref{
+   margin: 50px 0 0 10px;
+   
+   
+}
+
+hr{
+   height: 50px;
+   background-color: #cccccc;
+   width: 97.23%;
+   margin: 10px 20px 10px 20px;
+}
+
+.any:hover{
+   /* box-shadow: 2px 2px 5px white; */
+   text-shadow:  1px 4px 4px rgb(219, 17, 17);;
+}
+
+
+
+
